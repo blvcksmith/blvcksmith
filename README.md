@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dm
 - 👀 I’m interested in developing games n apps
 - 🌱 I’m currently learning C++ & UE4
-- 💞️ I’m looking to collaborate on any interesting project
-- 📫 How to reach me: dev.oomkin@gmail.com
+- 💞️ Openned to any sort of colaboration/cooperation.
+- 📫 dev.oomkin@gmail.com
 
 <!---
 blvcksmith/blvcksmith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
