@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dm
 - 👀 I’m interested in developing games n apps
 - 🌱 I’m currently learning C++ & UE4
-- 💞️ Openned to any sort of colaboration/cooperation.
+- 💞️ Openned to any sort of collaboration/cooperation.
 - 📫 dev.oomkin@gmail.com
 
 <!---
